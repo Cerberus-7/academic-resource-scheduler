@@ -80,7 +80,7 @@ See [`docs/architecture.md`](docs/architecture.md) for a deeper walkthrough.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/academic-resource-scheduler.git
+git clone https://github.com/Cerberus-7>/academic-resource-scheduler.git
 cd academic-resource-scheduler
 ```
 
